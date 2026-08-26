@@ -1,6 +1,6 @@
 # PPM
 
-This is the repository for the paper submitted to NDSS2027, "SoK: Synthesizing Smart Home Privacy Protection Mechanisms Across Academic Proposals and Commercial Documentations".
+This is the repository for the paper submitted, "SoK: Synthesizing Smart Home Privacy Protection Mechanisms Across Academic Proposals and Commercial Documentations".
 
 File structure:
 
